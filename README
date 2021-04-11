@@ -16,22 +16,22 @@ It can be generated as per the user’s preference, however mandatory for a succ
 
 #### 2. Run python script:
 if requesting VAF filter only:
-```
+'''
 python3 NGS_result_table_filter.py -v VAF_desired_cutoff -f /path_to/input_file.csv
-```
+'''
 
 if requesting both VAF and ClinVar filters:
 
-```
+'''
 python3 NGS_result_table_filter.py -v VAF_desired_cutoff -c -f /path_to/input_file.csv
-```
+'''
 
 
 #### 3. Bash script with:
 An examples of a specification files is available:
-```
+'''
 ./my_NGS_filter_old.sh
-```
+'''
 
 
 If used, citation is welcome
