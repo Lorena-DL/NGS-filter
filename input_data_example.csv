@@ -1,0 +1,2 @@
+Sample,Barcode,Barcode_Sequence,Chromosome,Gene,Transcript,Position,Reference,Mut,Coverage,WT_reads,Mut_reads,VAF,ClinVar
+Sample_1,F3,CGATGTAT,5,Your_gene_ID,Your_Trascript_ID,29453145,C,A,126,84,42,33,-

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+python3 NGS_result_table_filter.py -v 10 -c -f /path/input_file.csv
+
+python3 NGS_result_table_filter.py -v 10 -f /path/input_file.csv
